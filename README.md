@@ -1,10 +1,6 @@
 # Projeto de Business Intelligence - BecomeX
 
-Este repositório apresenta um projeto de Business Intelligence desenvolvido para a empresa **BecomeX**, com o objetivo de monitorar e analisar dados de exportação de produtos agrícolas, oferecendo insights estratégicos para a tomada de decisão.
-
-## Visão Geral
-
-O painel interativo foi construído com foco em visualização clara de KPIs e tendências de mercado. Ele contém dados de exportação por país, estado, produto e tipo de produto, bem como informações de receita mensal e participação de mercado.
+Este repositório apresenta um projeto de Business Intelligence desenvolvido para a empresa **BecomeX**, com o objetivo de monitorar e analisar dados de exportação de produtos agrícolas, oferecendo insights estratégicos para a tomada de decisão. O painel interativo foi construído com foco em visualização clara de KPIs e tendências de mercado. Ele contém dados de exportação por país, estado, produto e tipo de produto, bem como informações de receita mensal e participação de mercado.
 
 ## Principais Métricas e Visualizações:
 
