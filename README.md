@@ -4,7 +4,7 @@ Este repositório apresenta um projeto de Business Intelligence desenvolvido par
 
 ## Acesso o Dashboard
 
-📍 [Clique aqui para acessar o dashboard interativo no Looker Studio](https://lookerstudio.google.com/reporting/fad274f1-4028-4560-acb8-dd91679eab9b)
+[Clique aqui para acessar o dashboard interativo no Looker Studio](https://lookerstudio.google.com/reporting/fad274f1-4028-4560-acb8-dd91679eab9b)
 
 ## Principais Métricas e Visualizações:
 
@@ -16,7 +16,7 @@ Este repositório apresenta um projeto de Business Intelligence desenvolvido par
 * **Valor Exportado por Estado**
 * **Mapa Mundial de Exportações**
 
-## 🧪 Preparação dos Dados
+## Preparação dos Dados
 
 A base de dados utilizada para construção do dashboard passa por um processo de limpeza, transformação e organização
 
@@ -27,3 +27,6 @@ A base de dados utilizada para construção do dashboard passa por um processo d
 * Receita total por país
 * Classificação por tipo de produto
 * Identificação de sazonalidade
+
+## Contato
+Para dúvidas ou sugestões, entre em contato pelo e-mail: vitormunnizz@gmail.com.
